@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<languageSettings>
 		<currentLanguage>en</currentLanguage>
@@ -164,6 +164,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>TRN_KEY</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>TRN_KEY</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>TRN_KEY</v8:content>
 						</v8:item>
@@ -174,6 +182,14 @@
 				<c>
 					<f>5</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>ADV_KEY</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>ADV_KEY</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>ADV_KEY</v8:content>
@@ -186,6 +202,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>公司简介</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Şirket</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Company</v8:content>
 						</v8:item>
@@ -196,6 +220,14 @@
 				<c>
 					<f>5</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>分行</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Şube</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Branch</v8:content>
@@ -208,6 +240,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>合作伙伴</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Cari hesap</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Partner</v8:content>
 						</v8:item>
@@ -218,6 +258,14 @@
 				<c>
 					<f>5</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>法定名称</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Fatura hesabı</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Legal name</v8:content>
@@ -230,6 +278,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>货币</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Döviz</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Currency</v8:content>
 						</v8:item>
@@ -240,6 +296,14 @@
 				<c>
 					<f>5</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>协议</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Sözleşme</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Agreement</v8:content>
@@ -252,6 +316,14 @@
 					<f>6</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>#</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>#</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>#</v8:content>
 						</v8:item>
@@ -262,6 +334,14 @@
 				<c>
 					<f>7</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>进展情况</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Avanslar</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Advances</v8:content>
@@ -274,6 +354,14 @@
 				<c>
 					<f>7</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>交易事项</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>İşlemler</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Transactions</v8:content>
@@ -323,6 +411,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>打开</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Açık</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Open</v8:content>
 						</v8:item>
@@ -333,6 +429,14 @@
 				<c>
 					<f>5</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>收据</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
@@ -345,6 +449,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>费用</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Çıkış</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
 						</v8:item>
@@ -355,6 +467,14 @@
 				<c>
 					<f>5</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>接近/接近</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Kapalı</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Close</v8:content>
@@ -367,6 +487,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>打开</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Açık</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Open</v8:content>
 						</v8:item>
@@ -377,6 +505,14 @@
 				<c>
 					<f>5</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>收据</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
@@ -389,6 +525,14 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>费用</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Çıkış</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
 						</v8:item>
@@ -399,6 +543,14 @@
 				<c>
 					<f>8</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>接近/接近</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Kapalı</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Close</v8:content>
@@ -629,6 +781,14 @@
 					<f>23</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>付款日期</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Ödeme tarihi</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Payment date</v8:content>
 						</v8:item>
@@ -640,6 +800,14 @@
 					<f>23</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>收据</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
 						</v8:item>
@@ -650,6 +818,14 @@
 				<c>
 					<f>23</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>费用</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Çıkış</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
@@ -701,6 +877,14 @@
 					<f>26</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>ADV=&gt;TRN</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>ADV=&gt;TRN</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>ADV=&gt;TRN</v8:content>
 						</v8:item>
@@ -718,6 +902,14 @@
 					<f>23</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>期间</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Dönem</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Period</v8:content>
 						</v8:item>
@@ -728,6 +920,14 @@
 				<c>
 					<f>23</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>来自ADV_KEY</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>From ADV_KEY</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>From ADV_KEY</v8:content>
@@ -740,6 +940,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>打开</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Açık</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Open</v8:content>
 						</v8:item>
@@ -750,6 +958,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>收据</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
@@ -762,6 +978,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>费用</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Çıkış</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
 						</v8:item>
@@ -772,6 +996,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>接近/接近</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Kapalı</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Close</v8:content>
@@ -784,6 +1016,14 @@
 					<f>23</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>期间</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Dönem</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Period</v8:content>
 						</v8:item>
@@ -794,6 +1034,14 @@
 				<c>
 					<f>23</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>到TRN_KEY</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>To TRN_KEY</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>To TRN_KEY</v8:content>
@@ -806,6 +1054,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>打开</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Açık</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Open</v8:content>
 						</v8:item>
@@ -816,6 +1072,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>收据</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
@@ -828,6 +1092,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>费用</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Çıkış</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
 						</v8:item>
@@ -838,6 +1110,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>接近/接近</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Kapalı</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Close</v8:content>
@@ -948,6 +1228,14 @@
 					<f>26</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>TRN=&gt;ADV</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>TRN=&gt;ADV</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>TRN=&gt;ADV</v8:content>
 						</v8:item>
@@ -965,6 +1253,14 @@
 					<f>23</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>期间</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Dönem</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Period</v8:content>
 						</v8:item>
@@ -975,6 +1271,14 @@
 				<c>
 					<f>23</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>从TRN_KEY</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>From TRN_KEY</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>From TRN_KEY</v8:content>
@@ -987,6 +1291,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>打开</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Açık</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Open</v8:content>
 						</v8:item>
@@ -997,6 +1309,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>收据</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
@@ -1009,6 +1329,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>费用</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Çıkış</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
 						</v8:item>
@@ -1019,6 +1347,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>接近/接近</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Kapalı</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Close</v8:content>
@@ -1031,6 +1367,14 @@
 					<f>23</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>期间</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Dönem</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Period</v8:content>
 						</v8:item>
@@ -1041,6 +1385,14 @@
 				<c>
 					<f>23</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>到ADV_KEY</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>To ADV_KEY</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>To ADV_KEY</v8:content>
@@ -1053,6 +1405,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>打开</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Açık</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Open</v8:content>
 						</v8:item>
@@ -1063,6 +1423,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>收据</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
@@ -1075,6 +1443,14 @@
 					<f>27</f>
 					<tl>
 						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>费用</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Çıkış</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
 						</v8:item>
@@ -1085,6 +1461,14 @@
 				<c>
 					<f>27</f>
 					<tl>
+						<v8:item>
+							<v8:lang>zh</v8:lang>
+							<v8:content>接近/接近</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Kapalı</v8:content>
+						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Close</v8:content>
@@ -1416,6 +1800,14 @@
 		<textPlacement>Wrap</textPlacement>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1430,6 +1822,14 @@
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
@@ -1447,6 +1847,14 @@
 		<fillType>Parameter</fillType>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1463,6 +1871,14 @@
 		<markNegatives>true</markNegatives>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1477,6 +1893,14 @@
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
@@ -1493,6 +1917,14 @@
 		<fillType>Parameter</fillType>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1507,6 +1939,14 @@
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
@@ -1525,6 +1965,14 @@
 		<fillType>Parameter</fillType>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1535,6 +1983,14 @@
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=0; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=0; NGS=' '</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=0; NGS=' '</v8:content>
@@ -1548,6 +2004,14 @@
 		<markNegatives>true</markNegatives>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1560,6 +2024,14 @@
 		<markNegatives>false</markNegatives>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1571,6 +2043,14 @@
 		<fillType>Parameter</fillType>
 		<markNegatives>true</markNegatives>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
@@ -1586,6 +2066,14 @@
 		<border>2</border>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '; DF=dd.MM.yyyy</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '; DF=dd.MM.yyyy</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '; DF=dd.MM.yyyy</v8:content>
 			</v8:item>
@@ -1595,6 +2083,14 @@
 		<border>2</border>
 		<fillType>Parameter</fillType>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '; DF=dd.MM.yyyy</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '; DF=dd.MM.yyyy</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '; DF=dd.MM.yyyy</v8:content>
@@ -1621,6 +2117,14 @@
 		<textColor>#3366FF</textColor>
 		<fillType>Parameter</fillType>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '; DF='dd.MM.yyyy HH:mm:ss'</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '; DF='dd.MM.yyyy HH:mm:ss'</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '; DF='dd.MM.yyyy HH:mm:ss'</v8:content>
@@ -1656,6 +2160,14 @@
 		<fillType>Parameter</fillType>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1668,6 +2180,14 @@
 		<markNegatives>true</markNegatives>
 		<format>
 			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>
 			</v8:item>
@@ -1678,6 +2198,14 @@
 		<width>80</width>
 		<fillType>Parameter</fillType>
 		<format>
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>NFD=2; NGS=' '</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>NFD=2; NGS=' '</v8:content>

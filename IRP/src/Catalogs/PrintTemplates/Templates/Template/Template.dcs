@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <DataCompositionSchema xmlns="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcscom="http://v8.1c.ru/8.1/data-composition-system/common" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<dataSource>
 		<name>DataSource1</name>
@@ -10,6 +10,14 @@
 			<dataPath>Item</dataPath>
 			<field>Item</field>
 			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>项目</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Malzeme</v8:content>
+				</v8:item>
 				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Item</v8:content>
@@ -24,6 +32,14 @@
 			<field>ItemKey</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>项目键</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Varyant</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Item Key</v8:content>
 				</v8:item>
@@ -36,6 +52,14 @@
 			<dataPath>Barcode</dataPath>
 			<field>Barcode</field>
 			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>条码</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Barkod</v8:content>
+				</v8:item>
 				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Barcode</v8:content>
@@ -50,6 +74,14 @@
 			<field>Price</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>价格；价格</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Fiyat</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Price</v8:content>
 				</v8:item>
@@ -63,6 +95,14 @@
 			<field>Unit</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>单位</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Birim</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Unit</v8:content>
 				</v8:item>
@@ -75,6 +115,14 @@
 			<dataPath>BarcodeType</dataPath>
 			<field>BarcodeType</field>
 			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>条码类型</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Barkod tipi</v8:content>
+				</v8:item>
 				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Barcode type</v8:content>
@@ -93,6 +141,14 @@
 			<field>Quantity</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>数量</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Miktar</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Quantity</v8:content>
 				</v8:item>
@@ -107,6 +163,14 @@
 	<parameter>
 		<name>Period</name>
 		<title xsi:type="v8:LocalStringType">
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>期间</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>Dönem</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>Period</v8:content>

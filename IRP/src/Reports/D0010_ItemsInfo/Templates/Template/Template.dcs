@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <DataCompositionSchema xmlns="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcscom="http://v8.1c.ru/8.1/data-composition-system/common" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<dataSource>
 		<name>DataSource1</name>
@@ -10,6 +10,14 @@
 			<dataPath>File</dataPath>
 			<field>File</field>
 			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>档案</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Dosya</v8:content>
+				</v8:item>
 				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>File</v8:content>
@@ -28,6 +36,14 @@
 			<field>Item</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>项目</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Malzeme</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Item</v8:content>
 				</v8:item>
@@ -37,6 +53,14 @@
 			<dataPath>ItemKey</dataPath>
 			<field>ItemKey</field>
 			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>项目键</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Varyant</v8:content>
+				</v8:item>
 				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Item key</v8:content>
@@ -48,6 +72,14 @@
 			<field>Barcode</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>条码</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Barkod</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Barcode</v8:content>
 				</v8:item>
@@ -58,6 +90,14 @@
 			<field>SerialLotNumber</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>产品编号/批号</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Ürün seri/lot numarası</v8:content>
+				</v8:item>
+				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Item serial/lot number</v8:content>
 				</v8:item>
@@ -67,6 +107,14 @@
 			<dataPath>Unit</dataPath>
 			<field>Unit</field>
 			<title xsi:type="v8:LocalStringType">
+				<v8:item>
+					<v8:lang>zh</v8:lang>
+					<v8:content>单位</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>tr</v8:lang>
+					<v8:content>Birim</v8:content>
+				</v8:item>
 				<v8:item>
 					<v8:lang>en</v8:lang>
 					<v8:content>Unit</v8:content>
@@ -141,6 +189,14 @@ FROM
 	<parameter>
 		<name>CharLF</name>
 		<title xsi:type="v8:LocalStringType">
+			<v8:item>
+				<v8:lang>zh</v8:lang>
+				<v8:content>Char LF</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>tr</v8:lang>
+				<v8:content>Char LF</v8:content>
+			</v8:item>
 			<v8:item>
 				<v8:lang>en</v8:lang>
 				<v8:content>Char LF</v8:content>
